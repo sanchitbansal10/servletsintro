@@ -26,4 +26,13 @@ doGet method handles get request
 
 ###### JSP:
 Java Server Pages: Use to write dynamic content to web browsers
+A JSP is a servlet only!!
+
+Access an attribute: ${attributeName}
+
+Run JAVA Scriplets
+
+<%
+System.out.println("running java in JSP")
+%>
 
