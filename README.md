@@ -23,3 +23,7 @@ HTTPServlet: HTTPRequest: HTTPResponse
 
 doGet method handles get request
 @WebServlet(urlPatterns = "/login.do") define the route that a servlet serves
+
+###### JSP:
+Java Server Pages: Use to write dynamic content to web browsers
+
